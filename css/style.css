@@ -1,0 +1,22 @@
+/* Melissa Brennan */
+/* @MythicalCuddles */
+
+body {
+    /* background pattern from Toptal Subtle Patterns */
+    background-image: url("../images/background.png");
+    background-color: #e2e2e2;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#container {
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 5px;
+    color: black;
+    text-align: left;
+    overflow: hidden;
+    background-color:rgba(141, 141, 141, 0.15);
+    border-radius: 20px;
+}
